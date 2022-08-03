@@ -1,0 +1,68 @@
+# Weekly Stand Up
+Notes for the weekly stand up with the Infrastructure team=
+
+## Tasks
+
+1. File Bucket Rearchitecture
+    1. Officially copyiing data to the new 
+    1. NICE - process - using very little resources from 7a-7pm, 12hr blocks for.
+    1. HPE Support - Give them the hardware model #'s
+    1. Process for the cutover
+        1. Initial copy - keep it in sync with deltas.  Redirect the storage (Amount/Remount).  Actual as a bit bucket. testout MinIO, set a date for the cut over. no expected downtime for the cutover.
+        1. Excluded.
+    1. Possibly swapping out the cache controller on the first MSA
+1. XEN Server
+    1. VMWare servers are built.
+        1. IP Addresses going into the ticket.
+        1. Standard login with LDAP
+1. ~ Cleaning out the cabinet ~
+    1. ~Cleaned out.  Rail kit for the switch remains~
+1. ~ Process to eject the tapes for backups.~
+    1. ~Document and pass off to Glenn - last friday. ~ 
+        1. ~My side - coordinate with Glenn for Wednesday.~
+1. HPE Support Warranty Renewal
+    1. Jonathan to glance and confirm. - MSA with Serial numbers 
+        1. Jonathan to get an intro at HPE 
+1. Virtual Server Environment
+    1. Working on getting hardware quotes from HPE for new hardware to expand the environment.
+1. Other MSA -
+    1. We have four MSA - 
+1. ~Jonathan (2/7)~
+    1. ~MSAs wired up and transfers started~
+    1. ~Plan together for Xen decomission~
+    1. ~File Bucket Recovery~
+    1. ~Estimate tomorrow (2.8)~
+    1. 
+    2. RedHat Contact - Call this week
+    1. HPE COntact - Support
+1. James
+    1. Provide support on those devices. Go through Cisco
+        1. James - 
+            2. Admin portal - licensing and such
+            3. Add credentials  to lastPass 
+            4. Other devices EoL that dont' require support
+            1. Provide an email on the price.
+1. Quotes for Fiber Move
+    1. Permits pulled
+    1. Working on the quotes. 
+    1. Establish to DarkFiber. 
+1. Resiliancy (Work with managedWay partner with WOW for redundancy on internet connection).
+    1. ManagedWay is putting the quote.
+1. Work on an issue with Jarret 
+    1. Issues related to cabling 
+1. Support and Monitor
+1. N1D audit of the Firewall. (8am)
+    1. Verified false positive.
+    1. False safes - will get a call from 
+1. B4 - Order 2 more 9300 
+
+
+# Outstanding Tasks
+
+
+|Task  |Blockers  |Status  |
+|---------|---------|---------|
+|Server Room 20amp - Do we need another PSU and PDU for the rack?     |         |     In Progress    |
+|New VMWare Host Equipment     |   None      |    In Progress     |
+|Tasks For Walt     |  Jonathan        |       In progress  |
+|Current Status of 10.0.10.170     |         |    In Progress     |
