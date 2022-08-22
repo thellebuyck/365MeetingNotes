@@ -62,7 +62,11 @@ Notes for the weekly stand up with the Infrastructure team=
 
 |Task  |Blockers  |Status  |
 |---------|---------|---------|
-|Server Room 20amp - Do we need another PSU and PDU for the rack?     |         |     In Progress    |
+|Server Room 20amp - Do we need another PSU and PDU for the rack?     |     We need another PDU and PSU    |     In Progress    |
 |New VMWare Host Equipment     |   None      |    In Progress     |
 |Tasks For Walt     |  Jonathan        |       In progress  |
 |Current Status of 10.0.10.170     |         |    In Progress     |
+|Mount Filebucket 4|||In Progress|
+|192.168.54.230|||In Progress|
+|Phone System Alternatives||||
+|Failover and Replication|||
